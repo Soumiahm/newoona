@@ -14,7 +14,7 @@ export default function Index() {
           Next.js v5-alpha example
         </Typography>
         <Link href="/about" color="secondary">
-          Go to the about page
+          Go to the about page - oona new page
         </Link>
         <ProTip />
         <Copyright />
